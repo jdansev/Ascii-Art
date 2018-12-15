@@ -17,7 +17,7 @@ git clone https://github.com/jdansev/ascii-art
 cd ascii-art
 ```
 
-#### Compile
+#### Compile and run
 ```
 g++ asciiart.cpp -o asciiart `pkg-config --cflags --libs opencv` && ./asciiart
 ```
