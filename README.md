@@ -6,7 +6,7 @@ A real-time video to Ascii Art generator
   <img src="./demo-original.gif" width="400" >
 </p>
 
-Written in C++ with the OpenCV library.
+Made with C++ and OpenCV.
 
 ### Usage
 
