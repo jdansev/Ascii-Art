@@ -10,11 +10,14 @@ Written in C++ with the OpenCV library.
 
 ### Usage
 
+#### clone this repo
+
 ```
 git clone https://github.com/jdansev/ascii-art
 cd ascii-art
 ```
 
+#### compile
 ```
 g++ asciiart.cpp -o asciiart `pkg-config --cflags --libs opencv` && ./asciiart
 ```
